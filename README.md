@@ -1,12 +1,8 @@
 # Previsão de Inadimplência em Empréstimos de Automóveis
+![Static Badge](https://img.shields.io/badge/Status-Finalizado-green)
 
 ## Descrição
 Este projeto teve como objetivo desenvolver um modelo de Machine Learning capaz de prever a probabilidade de inadimplência de clientes em uma empresa de empréstimo de automóveis. O modelo de classificação supervisionado foi treinado utilizando dados históricos de clientes.
-<br>
-
-![Static Badge](https://img.shields.io/badge/Status-Finalizado-green)
-
-O modelo foi desenvolvido, treinado, avaliado e se encontra pronto para ser integrado em um sistema de análise de crédito.
 
 ## Funcionalidades
 Classificação de Clientes: O modelo classifica os clientes em diferentes categorias de risco, permitindo a tomada de decisões mais assertivas na concessão de crédito.
